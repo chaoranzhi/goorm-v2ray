@@ -1,5 +1,5 @@
 #!/bin/bash
-#下载核心程序
+#下载核心程序.
 mkdir /v2ray
 cd /v2ray
 rm -f /v2ray/v2ray
